@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">zpZM0towOY2T947uoyJKOd6rjHIRCcOYfXXcoGT9</string>
+    <string name="back4app_client_key">RKWFaoGKgspSzwqnENNRhwPJXfN2jf6ryXvAla8K</string>
+
+    <string name="facebook_app_id">5142056492471454</string>
+    <string name="fb_login_protocol_scheme">fb5142056492471454</string>
+</resources>
